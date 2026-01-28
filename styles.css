@@ -48,8 +48,8 @@ a:hover{ text-decoration: underline; }
 }
 
 .name{
-  margin: 18px 0 6px;
-  font-size: 32px;            /* antes 34 */
+  margin: 16px 0 6px;
+  font-size: 30px;          /* ↓ */
   font-weight: 700;
   color: var(--accent);
 }
